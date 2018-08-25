@@ -1,0 +1,14 @@
+# User-specific stuff
+PhotoUploader/.idea/**/workspace.xml
+PhotoUploader/.idea/**/tasks.xml
+PhotoUploader/.idea/**/usage.statistics.xml
+PhotoUploader/.idea/**/dictionaries
+PhotoUploader/.idea/**/shelf
+
+# Gradle
+PhotoUploader/.idea/**/gradle.xml
+PhotoUploader/.idea/**/libraries
+PhotoUploader/.gradle
+
+# IntelliJ
+out/
