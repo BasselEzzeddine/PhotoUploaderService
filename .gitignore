@@ -12,3 +12,6 @@ PhotoUploader/.gradle
 
 # IntelliJ
 out/
+
+# Images
+PhotoUploader/images
